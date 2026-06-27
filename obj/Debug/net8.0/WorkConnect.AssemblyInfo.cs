@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WorkConnect")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ab21fed4c4f5fd4f726163b41459ea1a3a4b00f")]
 [assembly: System.Reflection.AssemblyProductAttribute("WorkConnect")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WorkConnect")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
